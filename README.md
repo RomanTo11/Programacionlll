@@ -1,5 +1,5 @@
 PROGRAMACIÓN III
 
 
-Repocitorio- Jonathan Roman Torres Cuastuza
+Repositorio- Jonathan Roman Torres Cuastuza
 
