@@ -1,6 +1,6 @@
 .texto1 {
     color: red;
-    background-image: src="imagenes/oficina_1.jpg";
+    background-image: url("imagenes\pc_1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #333;
