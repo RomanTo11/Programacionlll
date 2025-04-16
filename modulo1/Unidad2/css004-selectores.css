@@ -2,7 +2,7 @@ div p{
     color:green;  
 }
 ul > li {
-    color:red;
+    color:blue (22, 3, 3);
 }
 a:hover{
     color: blue;

@@ -1,12 +1,11 @@
 
 .texto1 {
-    color: brown; 
+    color: rgb(24, 5, 32); 
     font-family: 24px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
-    line-height: 1.6;
+    line-height: 1;
     text-align: center;
-    text-decoration:underline;
     text-transform: capitalize;
     letter-spacing: 0.3ch;
     word-spacing: 1px;
@@ -19,8 +18,8 @@
     font-size: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
-    line-height: 3.6;
-    text-align: left;
+    line-height: 1.6;
+    text-align: center;
     text-decoration: underline;
     text-transform: capitalize;
     letter-spacing: 0ch;

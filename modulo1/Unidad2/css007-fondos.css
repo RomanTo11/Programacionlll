@@ -1,12 +1,38 @@
-.texto1 {
+.fondo {
     color: red;
-    background-image: url("imagenes\pc_1.jpg");
+    background-image: url("imagenes/backiee-inicio.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #333;
     opacity: 0.9; 
-    padding: 40px;
+    padding: 30px;
     text-align: center;
-    font-size: 20px;
+    font-size: 10px;
+    
+}
+
+.fondo2 {
+    color: rgb(173, 167, 176);
+    background-image: url("imagenes/backiee-inicio.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #939097;
+    opacity: 0.9; 
+    padding: 5px;
+    text-align: center; 
+    font-size: 30px;
+    
+}
+
+.fondo3 {
+    color: rgb(96, 24, 124);
+    background-image: url("imagenes/backiee-final.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #706281;
+    opacity: 0.9;   
+    padding: 5px;
+    text-align: center;
+    font-size: 40px;
     
 }

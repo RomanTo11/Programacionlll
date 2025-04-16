@@ -23,8 +23,8 @@ body {
 }
 
 .fijo {
-    background: lightcoral;
-    color: #000;
+    background: rgb(129, 40, 141);
+    color: #ebebeb;
     padding: 10px;  
     position: fixed;
     bottom: 10px;
