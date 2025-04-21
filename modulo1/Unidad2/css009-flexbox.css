@@ -8,6 +8,12 @@ body {
     padding: 10px;   
 }
 
+.statico2{
+    background: rgb(133, 58, 150); 
+    padding: 1px;   
+}
+
+
 .relativo {
     background: lightgreen;
     position: relative;
