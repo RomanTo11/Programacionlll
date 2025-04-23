@@ -9,8 +9,9 @@ body {
 }
 
 .statico2{
-    background: rgb(133, 58, 150); 
+    background: rgb(85, 7, 102); 
     padding: 1px;   
+    margin-bottom: 20px;
 }
 
 
@@ -29,7 +30,7 @@ body {
 }
 
 .fijo {
-    background: rgb(129, 40, 141);
+    background: rgb(62, 4, 70);
     color: #ebebeb;
     padding: 10px;  
     position: fixed;

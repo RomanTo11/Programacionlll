@@ -14,3 +14,34 @@
   border-radius: 50%;
   margin-bottom: 10px;
 }
+
+
+.card1 {
+  width: 425px;
+  display: inline-block;
+  text-align: left;
+  background: #290029ea;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(247, 247, 247);
+}
+
+.caracteristicas {
+  width: 420px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  color: #f3f3f3;
+  
+}
+
+.imagen {
+  width: 423px; 
+  height: 500px;
+  object-fit: cover; 
+  border-radius: 10px; 
+  margin-right: 20px; 
+}
+
+

@@ -1,3 +1,4 @@
+
 .fondo {
     color: red;
     background-image: url("imagenes/backiee-inicio.jpg");
@@ -12,15 +13,29 @@
 }
 
 .fondo2 {
-    color: rgb(173, 167, 176);
+    color: rgb(224, 218, 226);
     background-image: url("imagenes/backiee-inicio.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: #939097;
     opacity: 0.9; 
     padding: 5px;
-    text-align: center; 
+    text-align:left; 
     font-size: 30px;
+    font-family:'Courier New';
+    
+    
+    
+}
+
+.fondo3 {
+    color: rgb(96, 24, 124);
+    background-image: url("imagenes/backiee-final.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.9;   
+    padding: 5px;
+    text-align: center;
+    font-size: 40px;
     
 }
 
@@ -29,9 +44,11 @@
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.9; 
-    padding: 1px;
+    padding: 5px;
     text-align: center; 
     font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
 
 .fondo5 {
@@ -40,10 +57,19 @@
     background-repeat: no-repeat;
     opacity: 0.9; 
     padding: 0px;
-    text-align: center; 
+    text-align:right; 
     font-size: 20px;
 }
 
+.fondo6 {
+    color: rgb(242, 238, 244);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.9; 
+    padding: 0px;
+    text-align:center; 
+    font-size: 15px;
+}
 .fondo3 {
     color: rgb(96, 24, 124);
     background-image: url("imagenes/backiee-final.jpg");
