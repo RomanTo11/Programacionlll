@@ -1,15 +1,14 @@
-
 .fondo {
     color: red;
     background-image: url("imagenes/backiee-inicio.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #333;
-    opacity: 0.9; 
+    opacity: 0.9;
     padding: 30px;
     text-align: center;
     font-size: 10px;
-    
+
 }
 
 .fondo2 {
@@ -17,14 +16,14 @@
     background-image: url("imagenes/backiee-inicio.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.9; 
+    opacity: 0.9;
     padding: 5px;
-    text-align:left; 
+    text-align: left;
     font-size: 30px;
-    font-family:'Courier New';
-    
-    
-    
+    font-family: 'Courier New';
+
+
+
 }
 
 .fondo3 {
@@ -32,32 +31,32 @@
     background-image: url("imagenes/backiee-final.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.9;   
+    opacity: 0.9;
     padding: 5px;
     text-align: center;
     font-size: 40px;
-    
+
 }
 
 .fondo4 {
     color: rgb(242, 238, 244);
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.9; 
+    opacity: 0.9;
     padding: 5px;
-    text-align: center; 
+    text-align: center;
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
-    
+
 }
 
 .fondo5 {
     color: rgb(242, 238, 244);
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.9; 
+    opacity: 0.9;
     padding: 0px;
-    text-align:right; 
+    text-align: right;
     font-size: 20px;
 }
 
@@ -65,19 +64,20 @@
     color: rgb(242, 238, 244);
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.9; 
+    opacity: 0.9;
     padding: 0px;
-    text-align:center; 
+    text-align: center;
     font-size: 15px;
 }
+
 .fondo3 {
     color: rgb(96, 24, 124);
     background-image: url("imagenes/backiee-final.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.9;   
+    opacity: 0.9;
     padding: 5px;
     text-align: center;
     font-size: 40px;
-    
+
 }

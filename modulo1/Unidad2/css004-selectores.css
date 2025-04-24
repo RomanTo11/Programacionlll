@@ -1,14 +1,17 @@
-div p{
-    color:green;  
+div p {
+    color: green;
 }
-ul > li {
-    color:blue (22, 3, 3);
+
+ul>li {
+    color: blue (22, 3, 3);
 }
-a:hover{
+
+a:hover {
     color: rgb(160, 33, 160);
     font-size: larger;
 }
+
 input [type="text"] {
-    
+
     border: 6px solid;
 }

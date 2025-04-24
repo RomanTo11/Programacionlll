@@ -19,3 +19,5 @@ cuadrado2(6);
 //retorno directo
 const cuadrado = x  => x * x;
 console.log ("5x5", cuadrado(5));
+
+//
