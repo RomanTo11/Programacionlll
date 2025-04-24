@@ -5,7 +5,7 @@ ul > li {
     color:blue (22, 3, 3);
 }
 a:hover{
-    color: rgb(235, 232, 235);
+    color: rgb(160, 33, 160);
     font-size: larger;
 }
 input [type="text"] {
