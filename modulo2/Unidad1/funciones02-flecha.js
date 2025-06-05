@@ -1,23 +1,26 @@
-// funciones flecha 
+// funciones flechas
+
 const saludar = ()=> {
-    console.log("hola desde arrow function");
+    console.log("Hola desde Arrow Function");
 }
 saludar();
-saludar();
-saludar();
-saludar();
-const cuadrado1 = (num) => {
-    console.log("cuadrado de",num, "igual a", num * num);
+
+const cuadrado1 = (num)=> {
+    console.log("cuadrado de", 6 ,"igual a", num*num);
 }
 cuadrado1(6);
 
+//Retorno directo
+const cuadrado = x => x * x;
+console.log("5x5=", cuadrado(5));
+
+//imput y alert
 const cuadrado2 = (num) => {
-    console.log("cuadrado de",num, "igual a", num * num);
+    alert("Cuadrado de " + num + " es igual a " + (num * num));
 }
-cuadrado2(6);
 
-//retorno directo
-const cuadrado = x  => x * x;
-console.log ("5x5", cuadrado(5));
+let entrada = prompt("Introduce un número:");
+let numero = Number(entrada);
 
-//
+cuadrado2(numero);
+

@@ -1,45 +1,49 @@
+//forma clasica 
 function saludar (){
-    console.log("hola");
+    console.log("Hola desde una funcion");
 }
-saludar();
-saludar();
-saludar();
+saludar(); // Llamada a la funcion saludar
+saludar(); 
+saludar(); 
 
-function suma(){
-    console.log("suma 1 + 2 = ", 1 + 2);
-}
-
-function resta(){
-    console.log("suma 10 - 2 = ", 10 - 2);
-}
-suma();
-resta();
-suma();
-resta();
-resta();
-
-//funcion con paramatros y retorno
-
-function dividir (a, b){
-    return a / b;
+function sumar (){
+    console.log("suma 1+2 =",1+2);
 }
 
-let resultado = dividir(40, 8);
-console.log("resultado: ", resultado);
-
-//hacer una funcion que se le pase un numero e imprima  la tabla de multiplicar de ese numero
-
-function multiplicar(a, b) {
-    return a * b;
+function restar (){
+    console.log("resta 10-2 =",10-2);
 }
 
-function tabla_multiplicar(numero) {
-    console.log(`Tabla de multiplicar del:`, numero);
-    for (let i = 1; i <= 10; i++) {
-        let resultado = multiplicar(numero, i);
-        console.log(numero," x ",i, " = ", resultado );
+sumar();
+restar();
+sumar();
+restar();
+restar();
+
+//funcion con parametros y retornos
+
+function dividir (a,b){
+    return a/b;
+}
+
+let resultado = dividir(40,8); 
+console.log("Resultado:", resultado); 
+
+//hacer una funcion que se le pase un numero e imprima la tabla de multiplicar de ese numero
+// gane un punto extra sandra y damian  
+function tablaMultiplicar (num){
+    for (let i = 1; i <= 10; i++){
+        console.log(num, "*", i, "=", num*i);
+    }
+}   
+
+tablaMultiplicar(5); 
+
+function tabla (num){
+    let i = 1;
+    while (i <= 10){
+        console.log(i, "*", num,'=',i* num);
+        i++;
     }
 }
-tabla_multiplicar(5);
-
-// 
+tabla(5);

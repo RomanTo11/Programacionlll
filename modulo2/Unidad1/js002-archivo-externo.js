@@ -1,1 +1,1 @@
-console.log('Hola mundo desde un archivo externo')
+console.log("Hello World desde un archivo externo");
